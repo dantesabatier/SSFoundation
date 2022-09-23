@@ -1,6 +1,6 @@
 # SSFoundation
 
-Additions to the *[Apple's Foundation](https://developer.apple.com/documentation/foundation)* framework
+Additions to the *[Foundation](https://developer.apple.com/documentation/foundation)* framework
 
 ## License
 
