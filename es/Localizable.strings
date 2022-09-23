@@ -1,0 +1,63 @@
+/* time format */
+"%.0f days" = "%.0f dias";
+
+/* time format */
+"%.0f minutes" = "%.0f minutos";
+
+/* time format */
+"%.0f months" = "%.0f meses";
+
+/* date format */
+"%@ at %@" = "%1$@ a las %2$@";
+
+/* time format */
+"0 seconds" = "0 segundos";
+
+/* time format */
+"1 day" = "1 día";
+
+/* time format */
+"1 minute" = "1 minuto";
+
+/* time format */
+"About %.0f hours" = "Alrededor de %.0f horas";
+
+/* time format */
+"About 1 hour" = "Alrededor de 1 hora";
+
+/* time format */
+"About 1 month" = "Alrededor de 1 mes";
+
+/* time format */
+"About 1 year" = "Alrededor de 1 año";
+
+/* error description */
+"An unexpected error has occurred" = "Ha ocurrido un error inesperado";
+
+/* time format */
+"Half a minute" = "Medio minuto";
+
+/* time format */
+"Less than 5 seconds" = "Menos de 5 segundos";
+
+/* time format */
+"Less than 10 seconds" = "Menos de 10 segundos";
+
+/* time format */
+"Less than 20 seconds" = "Menos de 20 segundos";
+
+/* time format */
+"Less than a minute" = "Menos de un minuto";
+
+/* time format */
+"Over %.0f years" = "Más de %.0f años";
+
+/* date format */
+"Today at %@" = "Hoy a las %@";
+
+/* date format */
+"Tomorrow" = "Mañana";
+
+/* date format */
+"Yesterday at %@" = "Ayer a las %@";
+

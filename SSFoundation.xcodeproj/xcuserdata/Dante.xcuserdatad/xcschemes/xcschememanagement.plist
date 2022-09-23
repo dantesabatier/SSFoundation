@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>SSFoundation.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>SSFoundationResources.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>foundation.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8DC2EF4F0486A6940098B216</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FE1ED9961BFD26C000ED7968</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FE1ED9C21BFD2A9700ED7968</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FE736E1E1E0CD4EB00792695</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FEC7F4E41CB422BE00373BB6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FEF410DB172B28C800B95768</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FEFCD8751CB5510900D15916</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
